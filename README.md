@@ -1,12 +1,16 @@
 <div align="center">
 
-# Hi 👋, I'm Asbin T S
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+Specialist;Java+Spring+Boot+%26+Supabase;Building+Multi-Portal+Web+Platforms" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3ECF8E&height=200&section=header&text=Asbin%20T%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Multi-Portal%20Web%20Platforms&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+Specialist;Java+Spring+Boot+%26+Supabase;Building+Multi-Portal+Web+Platforms" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asbin-t-s/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asbin72)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asbinthomas15@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=asbin72&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -20,6 +24,7 @@ Developer_Profile:
   Role: Full-Stack Developer
   Location: India 🇮🇳
   Primary_Focus: Multi-Portal Web Applications & End-to-End Product Builds
+  Currently_Exploring: System Design & Cloud-Native Architecture
   Featured_Projects: Buyzo (E-Commerce) • Pawfectly (Pet Care Platform) • College Management System
   Status: Open to Software Developer Opportunities 🚀
 ```
@@ -60,6 +65,25 @@ Developer_Profile:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asbin72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbin72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&theme=tokyonight&hide_border=true&border_radius=8" alt="Asbin's GitHub Streak" width="65%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=asbin72&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" width="90%"/>
+
+</div>
+
+---
+
 ## ⚡ Featured Projects
 
 <div align="center">
@@ -77,7 +101,7 @@ Developer_Profile:
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -87,10 +111,6 @@ Developer_Profile:
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&theme=dark&hide_border=true&border_radius=8" alt="Asbin's GitHub Streak" width="85%" />
-
 </div>
 
 ---
@@ -98,7 +118,11 @@ Developer_Profile:
 <div align="center">
 
 ### 🤝 Let's Connect & Collaborate!
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asbin-t-s/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/asbin72)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asbinthomas15@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:61DAFB&height=100&section=footer" width="100%"/>
 
 </div>
