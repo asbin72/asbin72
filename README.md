@@ -69,16 +69,13 @@ Developer_Profile:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asbin72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbin72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+<img src="https://raw.githubusercontent.com/asbin72/asbin72/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&theme=tokyonight&hide_border=true&border_radius=8" alt="Asbin's GitHub Streak" width="65%" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=asbin72&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" width="90%"/>
 
 </div>
 
