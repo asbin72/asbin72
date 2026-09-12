@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=C8FF00&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+%26+Java+Spring+Boot;Building+Multi-Portal+Web+Platforms)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-C8FF00?style=for-the-badge&logo=vercel&logoColor=000000)](https://asbin-portfolio-dun.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C8FF00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/asbin-t-s/)
-[![GitHub](https://img.shields.io/badge/GitHub-C8FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/asbin72)
 [![Gmail](https://img.shields.io/badge/Gmail-C8FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:asbinthomas15@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asbin72&label=Profile%20Views&color=C8FF00&style=flat-square)](https://github.com/asbin72)
@@ -62,8 +62,13 @@ Developer_Profile:
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=asbin72&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF&hide_rank=false" alt="Asbin's GitHub Stats" /> </p> <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Asbin's GitHub Streak" /> </p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=asbin72&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF&hide_rank=false" alt="Asbin's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Asbin's GitHub Streak" />
+</p>
 
 ---
 
@@ -88,24 +93,11 @@ Developer_Profile:
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Collaborate!
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-C8FF00?style=flat-square&logo=vercel&logoColor=000000)](https://asbin-portfolio-dun.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-C8FF00?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/asbin-t-s/)
 [![GitHub](https://img.shields.io/badge/-GitHub-C8FF00?style=flat-square&logo=github&logoColor=000000)](https://github.com/asbin72)
 [![Gmail](https://img.shields.io/badge/-Gmail-C8FF00?style=flat-square&logo=gmail&logoColor=000000)](mailto:asbinthomas15@gmail.com)
