@@ -1,24 +1,18 @@
-<div align="center">
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Asbin%20T%20S&fontSize=60&fontColor=C8FF00&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Multi-Portal%20Web%20Platforms&descAlignY=55&descColor=ffffff&descSize=18)](https://github.com/asbin72)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3ECF8E&height=200&section=header&text=Asbin%20T%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Multi-Portal%20Web%20Platforms&descAlignY=55&descSize=18" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=C8FF00&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+%26+Java+Spring+Boot;Building+Multi-Portal+Web+Platforms)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+Specialist;Java+Spring+Boot+%26+Supabase;Building+Multi-Portal+Web+Platforms" alt="Typing SVG" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8FF00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/asbin-t-s/)
+[![GitHub](https://img.shields.io/badge/GitHub-C8FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/asbin72)
+[![Gmail](https://img.shields.io/badge/Gmail-C8FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:asbinthomas15@gmail.com)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asbin-t-s/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asbin72)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asbinthomas15@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=asbin72&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Profile Views"/>
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=asbin72&label=Profile%20Views&color=C8FF00&style=flat-square)](https://github.com/asbin72)
 
 ---
 
 ## 💫 About Me
 
-```yaml
+```
 Developer_Profile:
   Name: Asbin T S
   Role: Full-Stack Developer
@@ -33,60 +27,47 @@ Developer_Profile:
 
 ## 🛠️ Tech Stack & Ecosystem
 
-<div align="center">
-
 ### 💻 Frontend & UI Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+
+[![React](https://img.shields.io/badge/React-C8FF00?style=for-the-badge&logo=react&logoColor=000000)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-C8FF00?style=for-the-badge&logo=typescript&logoColor=000000)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-C8FF00?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-C8FF00?style=for-the-badge&logo=html5&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-C8FF00?style=for-the-badge&logo=css3&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-C8FF00?style=for-the-badge&logo=tailwindcss&logoColor=000000)](https://tailwindcss.com/)
 
 ### ⚡ Backend & Cloud Databases
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+
+[![Java](https://img.shields.io/badge/Java-C8FF00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-C8FF00?style=for-the-badge&logo=springboot&logoColor=000000)](https://spring.io/projects/spring-boot)
+[![Supabase](https://img.shields.io/badge/Supabase-C8FF00?style=for-the-badge&logo=supabase&logoColor=000000)](https://supabase.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C8FF00?style=for-the-badge&logo=postgresql&logoColor=000000)](https://www.postgresql.org/)
 
 ### ⚙️ Tools & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
 
-</div>
+[![Git](https://img.shields.io/badge/Git-C8FF00?style=for-the-badge&logo=git&logoColor=000000)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-C8FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/)
+[![Figma](https://img.shields.io/badge/Figma-C8FF00?style=for-the-badge&logo=figma&logoColor=000000)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/Postman-C8FF00?style=for-the-badge&logo=postman&logoColor=000000)](https://www.postman.com/)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asbin72&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF&hide_rank=false" alt="Asbin's GitHub Stats" />
+</p>
 
-<img src="https://raw.githubusercontent.com/asbin72/asbin72/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&theme=tokyonight&hide_border=true&border_radius=8" alt="Asbin's GitHub Streak" width="65%" />
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Asbin's GitHub Streak" />
+</p>
 
 ---
 
 ## ⚡ Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
+| --- | --- | --- | --- |
 | 🛍️ **Buyzo** | Multi-portal e-commerce platform (Customer, Admin, Delivery, Warehouse) with cart, coupons, returns/refunds & order lifecycle tracking. | React, JavaScript, Supabase | Private |
 | 🐾 **Pawfectly** | Pet-care & vet booking platform with customer and admin portals, appointment/medical-record management. | React, TypeScript, Java Spring Boot, Supabase | Private |
 | 🎓 **College Management** | End-to-end college management system. | JavaScript | [GitHub](https://github.com/asbin72/College_Management) |
@@ -94,32 +75,20 @@ Developer_Profile:
 | 👥 **Employee Management Dashboard** | Dashboard for managing employee records and workflows. | JavaScript | [GitHub](https://github.com/asbin72/Employee_Management_Dashboard) |
 | 🖥️ **TAP Frontend** | Frontend application. | HTML | [GitHub](https://github.com/asbin72/TAP_FRONTEND) |
 
-</div>
-
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/asbin72/asbin72/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asbin72&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=C8FF00&line=C8FF00&point=FFFFFF&area=true&area_color=C8FF00" alt="Asbin's Activity Graph" />
+</p>
 
 ---
-
-<div align="center">
 
 ### 🤝 Let's Connect & Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asbin-t-s/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/asbin72)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asbinthomas15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C8FF00?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/asbin-t-s/)
+[![GitHub](https://img.shields.io/badge/-GitHub-C8FF00?style=flat-square&logo=github&logoColor=000000)](https://github.com/asbin72)
+[![Gmail](https://img.shields.io/badge/-Gmail-C8FF00?style=flat-square&logo=gmail&logoColor=000000)](mailto:asbinthomas15@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:61DAFB&height=100&section=footer" width="100%"/>
-
-</div>
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer)](https://github.com/asbin72)
