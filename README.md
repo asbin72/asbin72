@@ -62,13 +62,8 @@ Developer_Profile:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asbin72&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF&hide_rank=false" alt="Asbin's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Asbin's GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=asbin72&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF&hide_rank=false" alt="Asbin's GitHub Stats" /> </p> <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asbin72&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Asbin's GitHub Streak" /> </p>
 
 ---
 
