@@ -88,7 +88,7 @@ Developer_Profile:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asbin72&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=C8FF00&line=C8FF00&point=FFFFFF&area=true&area_color=C8FF00" alt="Asbin's Activity Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=asbin72&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=C8FF00&line=C8FF00&point=FFFFFF&area=true&area_color=C8FF00" alt="Asbin's Activity Graph" />
 </p>
 
 ---
