@@ -1,3 +1,5 @@
+<div align="center">
+
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Asbin%20T%20S&fontSize=60&fontColor=C8FF00&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Multi-Portal%20Web%20Platforms&descAlignY=55&descColor=ffffff&descSize=18)](https://github.com/asbin72)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=C8FF00&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+%26+Java+Spring+Boot;Building+Multi-Portal+Web+Platforms)](https://git.io/typing-svg)
@@ -7,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-C8FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:asbinthomas15@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asbin72&label=Profile%20Views&color=C8FF00&style=flat-square)](https://github.com/asbin72)
+
+</div>
 
 ---
 
@@ -26,6 +30,8 @@ Developer_Profile:
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
 
 ### 💻 Frontend & UI Development
 
@@ -49,6 +55,8 @@ Developer_Profile:
 [![GitHub](https://img.shields.io/badge/GitHub-C8FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-C8FF00?style=for-the-badge&logo=figma&logoColor=000000)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/Postman-C8FF00?style=for-the-badge&logo=postman&logoColor=000000)](https://www.postman.com/)
+
+</div>
 
 ---
 
@@ -85,10 +93,14 @@ Developer_Profile:
 
 ---
 
+<div align="center">
+
 ### 🤝 Let's Connect & Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-C8FF00?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/asbin-t-s/)
 [![GitHub](https://img.shields.io/badge/-GitHub-C8FF00?style=flat-square&logo=github&logoColor=000000)](https://github.com/asbin72)
 [![Gmail](https://img.shields.io/badge/-Gmail-C8FF00?style=flat-square&logo=gmail&logoColor=000000)](mailto:asbinthomas15@gmail.com)
+
+</div>
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer)](https://github.com/asbin72)
